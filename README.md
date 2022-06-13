@@ -4,9 +4,9 @@ Hi 👋 My name is Edward C. Hayes III
 Software Engineer & Web Developer
 ---------------------------------
 
-I'm a recent graduate from Valdosta State University after attending for four years (2018 - 2022). I was able to complete my bachelors in Computer Information Systems w/ a minor in Computer Science during my time there as a student where I soaked up a majority of my coding knowledge from both my personal projects and the courses taken (most notably Algorithms, Data Structures, Software Engineering and Web Developer).
+I'm a recent graduate from Valdosta State University after attending for four years (2018 - 2022). I was able to complete my bachelors in Computer Information Systems w/ a minor in Computer Science during my time there as a student where I developed/expanded my knowledge of Computer Science Algorithmsfrom both my personal projects and the courses taken (most notably Algorithms, Data Structures, Software Engineering and Web Developer).
 
-* 🌍  I'm based in Florida (Miami) , Georgia
+* 🌍  I'm based in Florida (namely Miami) and Georgia
 * ✉️  You can contact me at [treyhayes2016@gmail.com](mailto:treyhayes2016@gmail.com)
 * 🧠  I'm learning Java, HTML, CSS, Agile(SE approach), Git, GitHub, JSON, JavaScript, AJAX,
 * ⚡  Excited to start my career in the world of Computer Science. Hello World!
