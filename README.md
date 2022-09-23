@@ -1,7 +1,7 @@
 Hi 👋 My name is Edward C. Hayes III
 ====================================
 
-Software Engineer || Java Developer & Programmer
+Java Software Engineer & Developer 
 ---------------------------------
 
 I'm a recent graduate from Valdosta State University after attending for four years (2018 - 2022). I was able to complete my bachelors in Computer Information Systems w/ a minor in Computer Science during my time there where I developed/expanded my knowledge of Computer Science related topics. Both, my personal projects and my team related projects helped to reinforce the knowledge I use in everyday practice while developing my projects. Courses, most notably, Algorithms, Data Structures, Software Engineering and Web Developer helped to reinforce what ive gained after studying the versatile field such as Computer Science.
@@ -39,4 +39,4 @@ I'm a recent graduate from Valdosta State University after attending for four ye
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/echayes22/Personal_Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=echayes22&repo=Personal_Projects&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/echayes22/Personal_Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=echayes22&repo=Personal_Projects&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/echayes22/Personal_Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=echayes22&repo=Cooperative_Projects&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/echayes22/Personal_Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=echayes22&repo=Personal_Projects&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
