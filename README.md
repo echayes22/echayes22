@@ -1,4 +1,4 @@
-Hi 👋 My name is Edward C. Hayes III
+Hi 😁 My name is Edward C. Hayes III
 ====================================
 
 Java Software Engineer & Developer 
