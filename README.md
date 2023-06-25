@@ -5,7 +5,9 @@ Software Engineer & IT Consultant
 ---------------------------------
 
 After the completion of my bachelors in Computer Information Systems included with a minor in Computer Science from the University of 
- Valdosta State, I developed/expanded my knowledge of Computer Science related topics. Both, my personal projects and my team related projects helped to reinforce the knowledge I use in everyday practice while developing my projects. Courses, most notably, Algorithms, Data Structures, Software Engineering and Web Developer helped to reinforce what ive gained after studying the versatile field such as Computer Science.
+ Valdosta State, I took time to delve deeper into the numerous Computer Science related topics. Ultimately finding passion in my work alongside the Software Engineering role, as well as, IT Consulting which I plan to evolve more into a Cyber Security path. 
+ 
+ Both, my personal projects and my team related projects helped to reinforce the knowledge I use in everyday practice while developing my projects. The most notable courses that I have taken included, Algorithms, Operating Systems, Unix, Data Structures, Software Engineering and Web Developement. 
 
 * 🌍  I'm based in the United States, including availability for remote offers
 * ✉️  You can contact me at [ecthayes@gmail.com](mailto:ecthayes@gmail.com) or my LinkedIn at https://www.linkedin.com/in/edward-hayes-iii-1905b1217/
