@@ -1,15 +1,16 @@
-Hi 😁 My name is Edward C. Hayes III
+Hi 😁 My name is Edward Clarence Hayes III
 ====================================
 
-Java Software Engineer & Developer 
+Software Engineer & IT Consultant
 ---------------------------------
 
-I'm a recent graduate from Valdosta State University after attending for four years (2018 - 2022). I was able to complete my bachelors in Computer Information Systems w/ a minor in Computer Science during my time there where I developed/expanded my knowledge of Computer Science related topics. Both, my personal projects and my team related projects helped to reinforce the knowledge I use in everyday practice while developing my projects. Courses, most notably, Algorithms, Data Structures, Software Engineering and Web Developer helped to reinforce what ive gained after studying the versatile field such as Computer Science.
+After the completion of my bachelors in Computer Information Systems included with a minor in Computer Science from the University of 
+ Valdosta State, I developed/expanded my knowledge of Computer Science related topics. Both, my personal projects and my team related projects helped to reinforce the knowledge I use in everyday practice while developing my projects. Courses, most notably, Algorithms, Data Structures, Software Engineering and Web Developer helped to reinforce what ive gained after studying the versatile field such as Computer Science.
 
-* 🌍  I'm based in United States, namely the state of Georgia, but open to relocation
-* ✉️  You can contact me at [treyhayes2016@gmail.com](mailto:treyhayes2016@gmail.com) or my LinkedIn at https://www.linkedin.com/in/edward-hayes-iii-1905b1217/
-* 🧠  I'm learning Java, HTML, CSS, Agile(SE approach), Git, GitHub, JSON, JavaScript, AJAX and hopefully more languages...
-* ⚡  Excited to expand my experience in Computer Science. Hello World!
+* 🌍  I'm based in the United States, including availability for remote offers
+* ✉️  You can contact me at [ecthayes@gmail.com](mailto:ecthayes@gmail.com) or my LinkedIn at https://www.linkedin.com/in/edward-hayes-iii-1905b1217/
+* 🧠  I'm currently studying for my A+ and Security+ certifications
+* ⚡  Excited to expand my experience in Sofftware Engineering and Information Technology 
 
 ### Skills
 
